@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "alexvtest16:blocks/container_test"
+  }
+}
